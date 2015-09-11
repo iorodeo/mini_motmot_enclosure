@@ -1,0 +1,3 @@
+License for software (all .py files) Apache 2.0
+
+License for design files (.dxf, .pdf, .svg) Creative Commons Public License CCPL 
